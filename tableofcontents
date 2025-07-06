@@ -1,0 +1,51 @@
+# Table of Contents: Git & GitHub Learning Journey
+
+1. **Creating a GitHub Repository**
+    - Understanding what a repository is
+    - Steps to create a new repository
+
+2. **README File**
+    - Purpose of README.md
+    - How to edit the README file
+
+3. **Making Your First Commit**
+    - What is a commit?
+    - How to commit changes on GitHub
+
+4. **Commit History**
+    - Viewing commit history
+    - Understanding commit messages
+
+5. **Adding New Files**
+    - Creating new files in the repository
+    - Making additional commits
+
+6. **Introduction to Git**
+    - Installing Git on your computer
+    - The purpose of the git command-line tool
+
+7. **Cloning a Repository**
+    - What does “cloning” mean?
+    - Cloning your GitHub repository to your computer
+
+8. **Making Local Changes**
+    - Editing files locally
+    - Using git status, add, commit, and push
+
+9. **Pushing Changes to GitHub**
+    - Sending (pushing) local changes to your online repository
+    - Verifying changes on GitHub
+
+10. **Git Command Syntax**
+    - Explanation of git command structure
+    - Common commands: status, add, commit, push, clone, checkout, branch
+
+11. **Understanding Branches**
+    - What is a branch?
+    - Branches vs. subfolders
+    - Branches as lower environments
+
+12. **Working with Branches**
+    - Creating and switching branches
+    - Making changes and pushing branches
+
